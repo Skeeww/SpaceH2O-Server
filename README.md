@@ -4,7 +4,7 @@ Serveur utilisé par la fusée du projet **SpaceH2O** visant à la faire communi
 
 |  Spécification  |  Status  |
 | :------------: | :------------: |
-|  Qualité du  code  |  [![Codacy Badge](https://api.codacy.com/project/badge/Coverage/8bbd1e80a0ed4b95ad215f23ac08e717)](https://www.codacy.com/manual/noan.perrot/Rocket-Server?utm_source=github.com&utm_medium=referral&utm_content=Skeeww/Rocket-Server&utm_campaign=Badge_Coverage)  |
+|  Qualité du  code  |  [![Codacy Badge](https://api.codacy.com/project/badge/Grade/bf4a3460f33847fdb6811f4e7276edc8)](https://www.codacy.com/manual/noan.perrot/SpaceH2O-Server?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Skeeww/SpaceH2O-Server&amp;utm_campaign=Badge_Grade)  |
 
 ### Fonctionalitées Disponibles
 
