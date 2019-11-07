@@ -1,0 +1,22 @@
+{
+    "name": "Accelerometer",
+    "units": ["m/s"],
+    "refreshRate": 10,
+    "sensors": [
+        {
+            "id": 0,
+            "name": "X",
+            "pin": "E0"
+        },
+        {
+            "id": 1,
+            "name": "Y",
+            "pin": "E1"
+        },
+        {
+            "id": 2,
+            "name": "Z",
+            "pin": "E2"
+        }
+    ]
+}

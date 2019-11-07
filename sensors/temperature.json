@@ -1,0 +1,22 @@
+{
+    "name": "Temperature",
+    "units": ["°C", "%"],
+    "refreshRate": 1000,
+    "sensors": [
+        {
+            "id": 0,
+            "name": "Internal",
+            "pin": "D0"
+        },
+        {
+            "id": 1,
+            "name": "External",
+            "pin": "D1"
+        },
+        {
+            "id": 2,
+            "name": "Battery",
+            "pin": "D2"
+        }
+    ]
+}

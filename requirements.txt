@@ -1,0 +1,4 @@
+pymongo
+colored
+pusher
+psutil

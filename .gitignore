@@ -1,0 +1,6 @@
+__pycache__/
+htmlcov/
+*.py[cod]
+*$py.class
+.coverage
+coverage.xml
