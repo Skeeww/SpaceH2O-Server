@@ -31,7 +31,7 @@ def checkpusher():
             cluster='eu',
             ssl=True
         )
-        if len(client.channels_info()):
+        if client.channels_info():
             return True
     except:
         return False
@@ -39,7 +39,7 @@ def checkpusher():
 def checkmongo():
     try:
         client = MongoClient("mongodb+srv://skew:"+os.environ['space_mongo_pass']+"@spaceh2o-7zb9g.mongodb.net/test?retryWrites=true&w=majority")
-        if len(client.list_database_names()):
+        if client.list_database_names():
             return True
         else:
             return False
